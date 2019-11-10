@@ -4,6 +4,8 @@
 ## Team:
 * Omer Mir
 * Joana Mucogllava
+* Jonathan Menjivar
+* Carlos Huerta-Enciso
 
 
 This is a website built using django framework which shows a concept 
